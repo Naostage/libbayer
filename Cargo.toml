@@ -25,7 +25,6 @@ doc = true
 
 [features]
 default = ["rayon"]
-bench = []
 
 [dependencies]
 byteorder = "1.4.3"
