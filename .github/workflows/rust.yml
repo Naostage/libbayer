@@ -38,3 +38,6 @@ jobs:
       name: ✅ Run cargo test
       run: cargo test --verbose
       if: ${{ matrix.features == '' }}
+    -
+      name: ⚡️ Run cargo bench
+      run: cargo bench --verbose
