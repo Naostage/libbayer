@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.trimAutoWhitespace": true,
+    "editor.insertSpaces": true,
+    "files.insertFinalNewline": true,
+    "rust-analyzer.cargo.features": [
+        "rayon"
+    ],
+}
